@@ -79,7 +79,7 @@ h2 {
     width: 100%;
     display: flex;
     justify-content: center;
-    bottom: 29vw;
+    bottom: 35vw;
     position: absolute;
     transform:  translateY(23vw)
 }
